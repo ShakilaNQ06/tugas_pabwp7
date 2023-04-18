@@ -42,7 +42,6 @@ CREATE TABLE `mahasiswa` (
 
 INSERT INTO `mahasiswa` (`id`, `nama`, `nim`, `email`, `jurusan`, `gambar`) VALUES
 (1, 'Shakila Nurul Qolbu', 'A22100122', 'shakilanurul664@gmail.com', 'Teknik Informatika', 'me.png'),
-(3, 'Erik', '023040321', 'erik@yahoo.com', 'Teknik Mesin', 'erik.jpg'),
 (4, 'kila', 'kil', 'kila@', 'teknik', 'kil'),
 (5, 'Qolbu', 'A22100150', 'qolbuuuuu@gmail.com', 'Sistem Informasi', 'laundry.jpg'),
 (6, 'kila', 'a22100108', 'kila@', 'teknik', 'kil'),
