@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #eabcac;
+}
+h1 {
+  color: #874e4c;
+  font-family: Verdana;
+  margin-top: 0px;
+}
+
+th,
+td {
+  background-color: #f7dfd4;
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #111010;
+}
